@@ -17,3 +17,4 @@
 <li>app - для компиляции сайта с помощью gulp в папку app с несжатыми файлами</li>
 <li>build - компиляция сайта и сжатие файлов</li>
 </ul>
+<a href="http://trade-meta.ru/works/mojayskiy/" target="_blank">Перейти на сайт</a>
